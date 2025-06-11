@@ -8,14 +8,13 @@ Problema:
 
 Pessoas com deficiências motoras e intelectuais frequentemente enfrentam grandes desafios ao utilizar teclados e interfaces tradicionais de computadores e dispositivos móveis. O design padrão desses equipamentos não leva em consideração as limitações físicas e cognitivas desses usuários, dificultando ou até impossibilitando sua utilização.
 
-O teclado TIX foi desenvolvido como uma alternativa acessível, com botões grandes, coloridos e de fácil manuseio, visando proporcionar uma navegação mais intuitiva. No entanto, é necessário investigar como essa tecnologia pode ser aprimorada para atender ainda melhor às necessidades dos usuários, considerando aspectos como a usabilidade, a durabilidade, a personalização e a integração com softwares educacionais e comunicacionais.
+O teclado MIX foi desenvolvido como uma alternativa acessível, com botões grandes, coloridos e de fácil manuseio, visando proporcionar uma navegação mais intuitiva. No entanto, é necessário investigar como essa tecnologia pode ser aprimorada para atender ainda melhor às necessidades dos usuários, considerando aspectos como a usabilidade, a durabilidade, a personalização e a integração com softwares educacionais e comunicacionais.
 
 Este projeto será utilizado em contextos como instituições de ensino inclusivas, centros de reabilitação e residências adaptadas, fazendo uso de tecnologias como microcontroladores, interfaces adaptadas e softwares acessíveis.
 
 Objetivos:
 
-Objetivo Geral:
-Desenvolver e avaliar a eficácia do teclado TIX como ferramenta de acessibilidade para pessoas com deficiências motoras e intelectuais, promovendo a inclusão digital e social desse público.
+Desenvolver e avaliar a eficácia do teclado MIX como ferramenta de acessibilidade para pessoas com deficiências motoras e intelectuais, promovendo a inclusão digital e social desse público.
 
 Objetivos Específicos:
 
