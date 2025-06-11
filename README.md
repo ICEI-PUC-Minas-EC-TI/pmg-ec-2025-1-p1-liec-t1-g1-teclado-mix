@@ -16,7 +16,7 @@
 * Calebe Henrique dos Santos Luis
 * Fabio Walder Vitorino
 * Ian Campos Andrade 
-* Fernanda (a completar 
+* Fernanda Ayrosa 
 
 ## Orientador
 
