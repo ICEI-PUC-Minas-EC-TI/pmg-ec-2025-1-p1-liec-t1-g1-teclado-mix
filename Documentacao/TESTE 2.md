@@ -1,7 +1,9 @@
-Testes do Projeto
+Testes do Projeto:
+
 Para garantir a eficácia e a usabilidade do teclado TIX, foram realizados testes práticos em duas etapas principais: testes técnicos de funcionamento e testes de usabilidade com usuários reais do público-alvo.
 
-1. Testes Técnicos
+1. Testes Técnicos:
+
 Nesta etapa, o foco foi verificar a funcionalidade de cada componente do teclado:
 
 Funcionamento dos botões: Cada botão foi testado individualmente para garantir que os sinais enviados fossem registrados corretamente pelo microcontrolador.
@@ -14,7 +16,8 @@ Tempo de resposta: O tempo entre o acionamento do botão e a resposta no disposi
 
 Resultado: Os testes técnicos mostraram que o teclado funciona de forma estável, com todos os botões respondendo corretamente. Nenhum erro crítico foi identificado.
 
-2. Testes com Usuários (Usabilidade)
+2. Testes com Usuários (Usabilidade):
+
 A segunda fase envolveu testes com três usuários reais com diferentes níveis de deficiência motora e intelectual, acompanhados por seus cuidadores e/ou terapeutas. As sessões aconteceram em um ambiente controlado (sala de aula inclusiva e centro terapêutico).
 
 Foram observados os seguintes pontos:
