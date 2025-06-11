@@ -1,25 +1,26 @@
-# TÍTULO DO PROJETO
+# TECLADO INCLUSIVO TIX
 
-`CAMPUS/UNIDADE`
+`COREU NOITE`
 
-`CURSO`
+`ENGENHARIA DA COMPUTAÇAO `
 
-`SEMESTRE`
+` 1° SEMESTRE `
 
-`DISCIPLINA`
+`LABORATÓRIO DE INTRODUÇÃO A COMPUTAÇÃO`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Caio Lorenzo Buzato Malafatte
+
+* Calebe Henrique dos Santos Luis
+* Fabio Walder Vitorino
+* Ian Campos Andrade 
+* Fernanda (a completar 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Lara 
 
 ## Resumo
 
