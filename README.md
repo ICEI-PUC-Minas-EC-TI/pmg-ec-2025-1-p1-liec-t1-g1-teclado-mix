@@ -4,7 +4,7 @@
 
 `ENGENHARIA DA COMPUTAÇAO `
 
-` 1° SEMESTRE `
+`1° SEMESTRE `
 
 `LABORATÓRIO DE INTRODUÇÃO A COMPUTAÇÃO`
 
@@ -24,7 +24,10 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O teclado TIX é uma ferramenta criada especialmente para ajudar pessoas com deficiência motora a se comunicarem e interagirem com o computador de forma mais fácil. Ele funciona por meio de um sistema de varredura, onde uma luz vai passando pelas opções do teclado, e o usuário seleciona a tecla desejada no momento certo com um simples toque ou outro tipo de ativação. Isso é muito útil para quem tem dificuldade de usar os teclados tradicionais, pois permite escrever mesmo com movimentos muito limitados.
+
+Esse tipo de tecnologia é muito usado em escolas, centros de reabilitação e por profissionais da área da saúde, justamente por ser simples, prático e adaptável. O legal do teclado TIX é que ele pode ser personalizado de acordo com as necessidades de cada pessoa, como mudar a velocidade da varredura ou o jeito como as letras aparecem. Com isso, ele se torna uma ferramenta importante para promover inclusão, garantindo que mais pessoas possam se expressar, estudar e participar do mundo digital com autonomia.
+
 
 # Código (do arduino ou esp32)
 
