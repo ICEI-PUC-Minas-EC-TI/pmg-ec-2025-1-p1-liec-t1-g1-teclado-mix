@@ -1,4 +1,5 @@
-Conclusão
+Conclusão: 
+
 O desenvolvimento do teclado TIX mostrou-se uma iniciativa eficaz para promover a inclusão digital de pessoas com deficiências motoras e intelectuais, oferecendo uma interface adaptada às suas necessidades específicas. A partir dos testes técnicos e de usabilidade, foi possível validar a funcionalidade do dispositivo, bem como sua aceitação pelo público-alvo, que apresentou maior facilidade e autonomia no uso de computadores.
 
 Entretanto, o projeto também evidenciou algumas limitações, como a necessidade de ajustes na sensibilidade dos botões e a ampliação da personalização do layout, que podem aprimorar ainda mais a experiência do usuário. Além disso, a integração com softwares educacionais e comunicacionais deve ser ampliada para potencializar o impacto do teclado em contextos pedagógicos e terapêuticos.
