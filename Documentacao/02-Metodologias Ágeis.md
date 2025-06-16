@@ -12,15 +12,15 @@ A equipe foi organizada da seguinte maneira, com base nas práticas do Scrum:
 
 Scrum Master: Fábio Walder Vitorino e Ian Campos – Responsável por organizar as reuniões, remover impedimentos e garantir o bom andamento do processo.
 
-Product Owner: Fábio Walder Vitorino, Ian Campos e Caio – Responsável por definir os requisitos do projeto com foco no usuário final e priorizar as funcionalidades a serem desenvolvidas.
+Product Owner: Fábio Walder Vitorino, Ian Campos e Caio Lorenzo Buzato Malafatte – Responsável por definir os requisitos do projeto com foco no usuário final e priorizar as funcionalidades a serem desenvolvidas.
 
 Equipe de Desenvolvimento:
 
-Caio – Programação do Arduino e testes com sensores/botões.
+Caio Lorenzo Buzato Malafatte, Fábio Walder Vitorino, Ian Campos e Kaleb – Programação do Arduino e testes com sensores/botões.
 
 Fábio Walder Vitorino e Ian campos – Design do protótipo físico do teclado e integração dos componentes.
 
-Fábio Walder Vitorino, Caio – Documentação, testes com usuários e coleta de feedback.
+Fábio Walder Vitorino, Caio Lorenzo Buzato Malafatte – Documentação, testes com usuários e coleta de feedback.
 
 Processo:
 
@@ -46,6 +46,6 @@ Trello: Organização das tarefas em formato Kanban e controle do progresso do p
 
 GitHub: Repositório para o controle de versão e compartilhamento do código-fonte.
 
-Google Meet: Reuniões semanais de planejamento e revisão.
+Discord: Reuniões semanais de planejamento e revisão.
 
 WhatsApp: Comunicação rápida e diária entre os membros.
