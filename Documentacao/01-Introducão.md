@@ -20,7 +20,7 @@ Objetivos Específicos:
 
 Analisar o nível de usabilidade do teclado MIX em diferentes contextos de uso (educacional, doméstico e terapêutico).
 
-Identificar melhorias técnicas e funcionais que possam ser implementadas no design e na interface do teclado TIX com base na experiência de uso dos usuários.
+Identificar melhorias técnicas e funcionais que possam ser implementadas no design e na interface do teclado MIX com base na experiência de uso dos usuários.
 
 Investigar o impacto do uso do teclado MIX no desenvolvimento da autonomia e na comunicação de pessoas com deficiência.
 
