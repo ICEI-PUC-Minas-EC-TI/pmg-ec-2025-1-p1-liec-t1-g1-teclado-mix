@@ -45,7 +45,7 @@ Esse tipo de tecnologia é muito usado em escolas, centros de reabilitação e p
 </ol>
 
 # Manual de Utilização
-Manual/Manual_Teclado_MIX.pdf
+https://github.com/ICEI-PUC-Minas-EC-TI/pmg-ec-2025-1-p1-liec-t1-g1-teclado-mix/blob/7c3a470906317a246f61d1fd795d2f69e471d5ab/Manual/Manual_Teclado_MIX.pdf
 <li><a href="Manual/manual de utilização.md"> Manual de Utilização</a></li>
 
 
