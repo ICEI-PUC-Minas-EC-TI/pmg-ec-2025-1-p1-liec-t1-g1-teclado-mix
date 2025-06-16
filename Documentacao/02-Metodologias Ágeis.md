@@ -16,9 +16,9 @@ Product Owner: Fábio Walder Vitorino, Ian Campos e Caio Lorenzo Buzato Malafatt
 
 Equipe de Desenvolvimento:
 
-Caio Lorenzo Buzato Malafatte, Fábio Walder Vitorino, Ian Campos e Kaleb – Programação do Arduino e testes com sensores/botões.
+Caio Lorenzo Buzato Malafatte, Fábio Walder Vitorino, Ian campos Andrade e Kaleb – Programação do Arduino e testes com sensores/botões.
 
-Fábio Walder Vitorino e Ian campos – Design do protótipo físico do teclado e integração dos componentes.
+Fábio Walder Vitorino e Ian campos Andrade – Design do protótipo físico do teclado e integração dos componentes.
 
 Fábio Walder Vitorino, Caio Lorenzo Buzato Malafatte – Documentação, testes com usuários e coleta de feedback.
 
