@@ -8,7 +8,7 @@ Nesta etapa, o foco foi verificar a funcionalidade de cada componente do teclado
 
 Funcionamento dos botões: Cada botão foi testado individualmente para garantir que os sinais enviados fossem registrados corretamente pelo microcontrolador.
 
-Comunicação com o computador: Foi verificada a compatibilidade do teclado com diferentes sistemas operacionais (Windows e Linux), garantindo o envio correto dos comandos.
+Comunicação com o computador: Foi verificada a compatibilidade do teclado com o sistemas operacionais Windows, garantindo o envio correto dos comandos.
 
 Estabilidade da conexão: Testes de uso contínuo foram realizados por períodos prolongados para detectar falhas ou travamentos.
 
@@ -24,7 +24,7 @@ Foram observados os seguintes pontos:
 
 Facilidade de uso: Os usuários conseguiram identificar os botões e utilizá-los após uma breve explicação.
 
-Ergonomia: O tamanho dos botões e o espaçamento entre eles permitiram o uso por pessoas com dificuldades de coordenação motora.
+Ergonomia: O tamanho dos botões e o espaçamento entre eles permitem o uso por pessoas com dificuldades de coordenação motora.
 
 Adaptação individual: Alguns usuários apresentaram melhor desempenho após pequenas personalizações no layout ou na sensibilidade dos botões.
 
@@ -33,7 +33,7 @@ Resultado: Os testes mostraram que o teclado TIX é bem aceito e útil para prom
 Limitações do Projeto
 Apesar dos bons resultados, algumas limitações foram identificadas:
 
-Sensibilidade dos botões: Em alguns casos, usuários com pouca força muscular tiveram dificuldade para pressionar os botões. Será necessário ajustar a pressão exigida.
+Sensibilidade dos botões: Em alguns casos, usuários com pouca força muscular podem ter dificuldade para pressionar os botões. Será necessário ajustar a pressão exigida.
 
 Layout fixo: A versão testada não permitia reprogramação simples dos botões, limitando a personalização para diferentes perfis de usuários.
 
