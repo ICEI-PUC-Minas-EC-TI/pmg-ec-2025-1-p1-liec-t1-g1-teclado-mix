@@ -1,26 +1,51 @@
-## Gerenciamento de Projeto
+Metodologia:
 
+A equipe utilizou uma metodologia de trabalho colaborativa baseada em práticas ágeis, com foco no framework Scrum para organizar as tarefas, priorizar entregas e facilitar a comunicação entre os membros do grupo. A escolha por uma metodologia ágil se justifica pela necessidade de realizar entregas frequentes, testar funcionalidades com usuários reais e promover melhorias constantes com base em feedbacks.
 
-# Metodologia
+O ambiente de desenvolvimento incluiu o uso da Arduino IDE para a programação do microcontrolador responsável pela comunicação do teclado com o computador. Para o controle de tarefas e gestão do tempo, utilizamos a ferramenta Trello, onde foi estruturado um quadro Kanban com colunas de “Backlog”, “A Fazer”, “Em andamento” e “Concluído”.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O código-fonte do projeto foi versionado e armazenado no GitHub, permitindo o controle de versões e o trabalho colaborativo entre os membros da equipe. A comunicação foi realizada por meio do WhatsApp e reuniões semanais via Google Meet, garantindo alinhamento constante sobre o andamento do projeto.
 
-### Divisão de Papéis
+Divisão de Papéis:
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe foi organizada da seguinte maneira, com base nas práticas do Scrum:
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+Scrum Master: Fábio Walder Vitorino e Ian Campos – Responsável por organizar as reuniões, remover impedimentos e garantir o bom andamento do processo.
 
+Product Owner: Fábio Walder Vitorino, Ian Campos e Caio – Responsável por definir os requisitos do projeto com foco no usuário final e priorizar as funcionalidades a serem desenvolvidas.
 
-### Processo
+Equipe de Desenvolvimento:
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+Caio – Programação do Arduino e testes com sensores/botões.
 
-### Ferramentas
+Fábio Walder Vitorino e Ian campos – Design do protótipo físico do teclado e integração dos componentes.
 
-As ferramentas utilizadas no projeto foram:
+Fábio Walder Vitorino, Caio – Documentação, testes com usuários e coleta de feedback.
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+Processo:
+
+O desenvolvimento do projeto seguiu as etapas propostas pelo Scrum:
+
+Sprint Planning (Planejamento de Sprint): Definição de metas e tarefas para cada sprint, com duração média de 1 semana.
+
+Daily Scrum (Reuniões Diárias): Breves reuniões de alinhamento (via mensagem ou chamada), onde cada membro compartilhou o que fez, o que vai fazer e se há algum impedimento.
+
+Sprint Review (Revisão da Sprint): Apresentação do que foi concluído, com demonstrações de funcionalidades.
+
+Sprint Retrospective (Retrospectiva): Avaliação do que funcionou bem e o que pode ser melhorado para o próximo ciclo.
+
+(Inserir aqui o print do quadro Kanban do Trello, com as colunas e tarefas visíveis)
+
+Ferramentas:
+
+As ferramentas utilizadas no desenvolvimento do projeto foram:
+
+Arduino IDE: Programação do microcontrolador responsável pela comunicação entre o teclado e o computador.
+
+Trello: Organização das tarefas em formato Kanban e controle do progresso do projeto.
+
+GitHub: Repositório para o controle de versão e compartilhamento do código-fonte.
+
+Google Meet: Reuniões semanais de planejamento e revisão.
+
+WhatsApp: Comunicação rápida e diária entre os membros.
