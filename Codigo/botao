@@ -1,0 +1,33 @@
+const int led4 = 4;
+const int botao2 = 2;
+const int botao3 = 21;
+int estadobotao;
+int estadobotao2;
+
+
+void setup() {
+   pinMode(led4, OUTPUT); 
+   pinMode(botao2, INPUT);
+   pinMode(botao3, INPUT);
+
+   }
+
+void loop() {
+    estadobotao = digitalRead(botao2);
+    estadobotao2 = digitalRead(botao3);
+
+    if(estadobotao == 1){
+      digitalWrite(led4, 1);
+    
+    }
+    else{
+      digitalWrite(led4, 0);
+    }
+    if(estadobotao2 == 1){
+      digitalWrite(led4, 1);
+    
+    }
+    else{
+      digitalWrite(led4, 0);
+    }
+}
