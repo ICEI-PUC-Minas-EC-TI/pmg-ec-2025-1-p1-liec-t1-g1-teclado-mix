@@ -36,9 +36,10 @@ Sprint Retrospective (Retrospectiva): Avaliação do que funcionou bem e o que p
 
 (Inserir aqui o print do quadro Kanban do Trello, com as colunas e tarefas visíveis)![WhatsApp Image 2025-06-24 at 16 38 35](https://github.com/user-attachments/assets/9fc5b1e8-da4e-4e3a-9f8a-95ccb3109406)
 
+![WhatsApp Image 2025-06-24 at 16 38 35](https://github.com/user-attachments/assets/f954b916-ec75-4d4f-9424-8bdd9cde04c6)
 
-Ferramentas:![WhatsApp Image 2025-06-24 at 16 36 06](https://github.com/user-attachments/assets/a5b0319c-4441-4bb1-ad6e-437cbfede1e2)
 
+Ferramentas:
 
 As ferramentas utilizadas no desenvolvimento do projeto foram:
 
