@@ -16,7 +16,7 @@ Product Owner: Fábio Walder Vitorino, Ian Campos e Caio Lorenzo Buzato Malafatt
 
 Equipe de Desenvolvimento:
 
-Caio Lorenzo Buzato Malafatte, Fábio Walder Vitorino, Ian campos Andrade e Kaleb – Programação do Arduino e testes com sensores/botões.
+Caio Lorenzo Buzato Malafatte, Fábio Walder Vitorino, Ian campos Andrade e Calebe – Programação do Arduino e testes com sensores/botões.
 
 Fábio Walder Vitorino e Ian campos Andrade – Design do protótipo físico do teclado e integração dos componentes.
 
@@ -26,13 +26,7 @@ Processo:
 
 O desenvolvimento do projeto seguiu as etapas propostas pelo Scrum:
 
-Sprint Planning (Planejamento de Sprint): Definição de metas e tarefas para cada sprint, com duração média de 1 semana.
 
-Daily Scrum (Reuniões Diárias): Breves reuniões de alinhamento (via mensagem ou chamada), onde cada membro compartilhou o que fez, o que vai fazer e se há algum impedimento.
-
-Sprint Review (Revisão da Sprint): Apresentação do que foi concluído, com demonstrações de funcionalidades.
-
-Sprint Retrospective (Retrospectiva): Avaliação do que funcionou bem e o que pode ser melhorado para o próximo ciclo.
 
 (Inserir aqui o print do quadro Kanban do Trello, com as colunas e tarefas visíveis)![WhatsApp Image 2025-06-24 at 16 38 35](https://github.com/user-attachments/assets/9fc5b1e8-da4e-4e3a-9f8a-95ccb3109406)
 
