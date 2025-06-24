@@ -5,6 +5,10 @@ Use esta pasta para salvar o vídeo demonstrando o funcionamento do projeto e as
 https://github.com/user-attachments/assets/0a7c02b3-3d82-4fef-91d3-733ca1b7ddf3
 
 
+https://github.com/user-attachments/assets/9fb6d92a-b548-41f1-a7d3-fc7990f83cee
+
+
+
 https://github.com/user-attachments/assets/c3db162e-cf3f-42c4-a809-f1b8871ebc4d
 
 
