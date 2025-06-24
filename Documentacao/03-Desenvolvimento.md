@@ -12,11 +12,14 @@ Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das et
 
 ### Interface
 
-![WhatsApp Image 2025-06-24 at 16 36 06](https://github.com/user-attachments/assets/a5b0319c-4441-4bb1-ad6e-437cbfede1e2)
+![WhatsApp Image 2025-06-24 at 17 15 58](https://github.com/user-attachments/assets/599fcd9d-d10e-4cd6-97d2-8f31ab3541ec)
+
 
 ### Código
 
-![WhatsApp Image 2025-06-24 at 16 36 06](https://github.com/user-attachments/assets/a5b0319c-4441-4bb1-ad6e-437cbfede1e2)
+![WhatsApp Image 2025-06-24 at 17 10 16](https://github.com/user-attachments/assets/7e06cefa-cb9c-4fd7-af49-976ddbf4028a)
+![WhatsApp Image 2025-06-24 at 17 10 15](https://github.com/user-attachments/assets/dbf039c5-cfc5-47f0-a0c4-d5137ae59a29)
+
 
 ## Desenvolvimento do Hardware
 
