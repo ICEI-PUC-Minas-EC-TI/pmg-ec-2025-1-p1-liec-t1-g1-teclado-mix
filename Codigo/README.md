@@ -1,7 +1,8 @@
 # Código do Arduino/ESP
 
 Mantenha neste diretório todo o código do Arduino ou ESP. Para isso, salve aqui o arquivo .ino.
-[Uploading trablho.ino…]()// Definição dos pinos dos LEDs
+[Uploading trablho.ino…]()
+// Definição dos pinos dos LEDs
 const int led1 = 13;
 const int led2 = 12;
 const int led3 = 14;
