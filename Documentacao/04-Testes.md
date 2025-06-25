@@ -1,13 +1,11 @@
 Testes do Projeto:
 
-Para garantir a eficácia e a usabilidade do teclado TIX, foram realizados testes práticos em duas etapas principais: testes técnicos de funcionamento e testes de usabilidade com usuários reais do público-alvo.
+Para garantir a eficácia e a usabilidade do teclado TIX, foram realizados testes práticos em duas etapas principais: testes técnicos de funcionamento e testes de usabilidade.
 
 Testes Técnicos:
 Nesta etapa, o foco foi verificar a funcionalidade de cada componente do teclado:
 
 Funcionamento dos botões: Cada botão foi testado individualmente para garantir que os sinais enviados fossem registrados corretamente pelo microcontrolador.
-
-Comunicação com o computador: Foi verificada a compatibilidade do teclado com o sistemas operacionais Windows, garantindo o envio correto dos comandos.
 
 Estabilidade da conexão: Testes de uso contínuo foram realizados por períodos prolongados para detectar falhas ou travamentos.
 
@@ -26,7 +24,7 @@ Ergonomia: O tamanho dos botões e o espaçamento entre eles permitem o uso por 
 
 Adaptação individual: Alguns usuários apresentaram melhor desempenho após pequenas personalizações no layout ou na sensibilidade dos botões.
 
-Resultado: Os testes mostraram que o teclado TIX é bem aceito e útil para promover a comunicação e interação com o computador. Mesmo usuários com baixa experiência tecnológica conseguiram utilizar a ferramenta com auxílio mínimo.
+Resultado: Os testes mostraram que o teclado TIX é bem aceito e útil para promover a comunicação e interação com o usuario. Mesmo usuários com baixa experiência tecnológica conseguiram utilizar a ferramenta com auxílio mínimo.
 
 Limitações do Projeto Apesar dos bons resultados, algumas limitações foram identificadas:
 
