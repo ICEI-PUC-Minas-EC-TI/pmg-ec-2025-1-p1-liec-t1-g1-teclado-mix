@@ -1,0 +1,29 @@
+#include "BluetoothSerial.h"
+
+BluetoothSerial SerialBT;
+
+const int botaoPin = 2;  //  Altere se seu botão estiver em outro pino
+bool estadoBotao = false;
+bool ultimoEstado = false;
+
+void setup() {
+  Serial.begin(115200);
+  SerialBT.begin("ESP32_BOTAO");  // Nome que vai aparecer no Bluetooth
+
+  pinMode(botaoPin, INPUT_PULLUP);  // Usa o pull-up interno para evitar flutuação
+
+  Serial.println("Bluetooth iniciado. Emparelhe no App Inventor!");
+}
+
+void loop() {
+  estadoBotao = digitalRead(botaoPin) == LOW;  // Pressionado = LOW (por causa do pull-up)
+
+  if(SerialBT.available()) {Serial.write(SerialBT.write(1));} 
+//  if (estadoBotao && !ultimoEstado) {
+//    Serial.println("Botão pressionado! Enviando...");
+//    SerialBT.println("Botao_Pressionado");  // Mensagem que o App Inventor vai receber
+//  }
+
+  ultimoEstado = estadoBotao;
+  delay(20);
+}
